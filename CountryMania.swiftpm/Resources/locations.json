@@ -1,0 +1,2016 @@
+[
+    {
+        "id": "4A0441B0-C1BF-11EC-A6D6-0800200C9A66",
+        "name": "South America",
+        "countries": [
+            {
+            "id": "4A0468C0-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Argentina",
+            "latitude": -34,
+            "longitude": -64,
+            "flagPicture": "Argentina",
+            "leaderPicture": "Alberto Fernández",
+            "capital": "Buenos Aires"
+            },
+            
+            {
+            "id": "4A0468C6-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Bolivia",
+            "latitude": -16,
+            "longitude": -64,
+            "flagPicture": "Bolivia",
+            "leaderPicture": "Luis Arce",
+            "capital": "Sucre"
+            },
+            
+            {
+            "id": "4A0468C7-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Brazil",
+            "latitude": -10,
+            "longitude": -52,
+            "flagPicture": "Brazil",
+            "leaderPicture": "Jair Bolsonaro",
+            "capital": "Brasilia"
+            },
+            
+            {
+            "id": "4A0468C5-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Chile",
+            "latitude": -34,
+            "longitude": -71,
+            "flagPicture": "Chile",
+            "leaderPicture": "Gabriel Boric",
+            "capital": "Santiago"
+            },
+            
+            {
+            "id": "4A0468C4-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Colombia",
+            "latitude": 4,
+            "longitude": -72,
+            "flagPicture": "Colombia",
+            "leaderPicture": "Iván Duque Márquez",
+            "capital": "Bogota"
+            },
+            
+            {
+            "id": "4A0468C8-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Ecuador",
+            "latitude": -2,
+            "longitude": -77,
+            "flagPicture": "Ecuador",
+            "leaderPicture": "Guillermo Lasso",
+            "capital": "Quito"
+            },
+            
+            {
+            "id": "4A0468C9-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Guyana",
+            "latitude": 5,
+            "longitude": -58,
+            "flagPicture": "Guyana",
+            "leaderPicture": "Irfaan Ali",
+            "capital": "Georgetown"
+            },
+            
+            {
+            "id": "4A0468C3-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Paraguay",
+            "latitude": -23,
+            "longitude": -58,
+            "flagPicture": "Paraguay",
+            "leaderPicture": "Mario Abdo Benítez",
+            "capital": "Asuncion"
+            },
+            
+            {
+            "id": "4A0468C1-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Peru",
+            "latitude": -10,
+            "longitude": -76,
+            "flagPicture": "Peru",
+            "leaderPicture": "Pedro Castillo",
+            "capital": "Lima"
+            },
+            
+            {
+            "id": "4A0468CA-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Suriname",
+            "latitude": 4,
+            "longitude": -56,
+            "flagPicture": "Suriname",
+            "leaderPicture": "Chan Santokhi",
+            "capital": "Paramaribo"
+            },
+            
+            {
+            "id": "4A0468C2-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Uruguay",
+            "latitude": -32,
+            "longitude": -55,
+            "flagPicture": "Uruguay",
+            "leaderPicture": "Luis Lacalle Pou",
+            "capital": "Montevideo"
+            },
+            
+            {
+            "id": "4A0468CB-C1BF-11EC-A6D6-0800200C9A66",
+            "name": "Venezuela",
+            "latitude": 7,
+            "longitude": -65,
+            "flagPicture": "Venezuela",
+            "leaderPicture": "Nicolás Maduro",
+            "capital": "Caracas"
+            }
+        ]
+    },
+    
+    {
+        "id": "65BE44F0-C19C-11EC-A6D6-0800200C9A66",
+        "name": "North America",
+        "countries": [
+            {
+            "id": "DAC0B000-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Antigua and Barbuda",
+            "latitude": 17,
+            "longitude": -61,
+            "flagPicture": "Antigua-and-Barbuda",
+            "leaderPicture": "Gaston Browne",
+            "capital": "Saint John's"
+            },
+            
+            {
+            "id": "DAC0B001-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Bahamas",
+            "latitude": 24,
+            "longitude": -76,
+            "flagPicture": "Bahamas",
+            "leaderPicture": "Philip Davis",
+            "capital": "Nassau"
+            },
+            
+            {
+            "id": "DAC0B002-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Barbados",
+            "latitude": 13.5,
+            "longitude": -59,
+            "flagPicture": "Barbados",
+            "leaderPicture": "Mia Mottley",
+            "capital": "Bridgetown"
+            },
+            
+            {
+            "id": "DAC0B003-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Belize",
+            "latitude": 17,
+            "longitude": -88,
+            "flagPicture": "Belize",
+            "leaderPicture": "Johnny Briceño",
+            "capital": "Belmopan"
+            },
+            
+            {
+            "id": "65BE44F3-C19C-11EC-A6D6-0800200C9A66",
+            "name": "Canada",
+            "latitude": 56.1304,
+            "longitude": -106.3468,
+            "flagPicture": "Canada",
+            "leaderPicture": "Justin Trudeau",
+            "capital": "Ottawa"
+            },
+            
+            {
+            "id": "DAC0B004-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Costa Rica",
+            "latitude": 10,
+            "longitude": -84,
+            "flagPicture": "Costa-Rica",
+            "leaderPicture": "Carlos Alvarado Quesada",
+            "capital": "San Jose"
+            },
+            
+            {
+            "id": "DAC0B005-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Cuba",
+            "latitude": 22,
+            "longitude": -80,
+            "flagPicture": "Cuba",
+            "leaderPicture": "Miguel Díaz-Canel",
+            "capital": "Havana"
+            },
+            
+            {
+            "id": "DAC0B006-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Dominica",
+            "latitude": 15,
+            "longitude": -61,
+            "flagPicture": "Dominica",
+            "leaderPicture": "Charles Savarin",
+            "capital": "Roseau"
+            },
+            
+            
+            {
+            "id": "DAC0B007-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Dominican Republic",
+            "latitude": 18.7357,
+            "longitude": -70.1627,
+            "flagPicture": "Dominican-Republic",
+            "leaderPicture": "Luis Abinader",
+            "capital": "Santo Domingo"
+            },
+            
+            {
+            "id": "DAC0B008-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "El Salvador",
+            "latitude": 14,
+            "longitude": -89,
+            "flagPicture": "El-Salvador",
+            "leaderPicture": "Nayib Bukele",
+            "capital": "San Salvador"
+            },
+            
+            {
+            "id": "DAC0B009-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Grenada",
+            "latitude": 12,
+            "longitude": -61,
+            "flagPicture": "Grenada",
+            "leaderPicture": "Keith Mitchell",
+            "capital": "Saint George's"
+            },
+                    
+            {
+            "id": "DAC1C170-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Haiti",
+            "latitude": 20,
+            "longitude": -72.2852,
+            "flagPicture": "Haiti",
+            "leaderPicture": "Ariel Henry",
+            "capital": "Port-au-Prince"
+            },
+            
+            {
+            "id": "DAC1C171-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Honduras",
+            "latitude": 15,
+            "longitude": -86,
+            "flagPicture": "Honduras",
+            "leaderPicture": "Xiomara Castro",
+            "capital": "Tegucigalpa"
+            },
+            
+            {
+            "id": "DAC1C172-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Jamaica",
+            "latitude": 18,
+            "longitude": -77,
+            "flagPicture": "Jamaica",
+            "leaderPicture": "Andrew Holness",
+            "capital": "Kingston"
+            },
+            
+            {
+            "id": "DAB3F173-C1B2-11EC-A6D6-0800200C9A66",
+            "name": "Guatemala",
+            "latitude": 15,
+            "longitude": -91,
+            "flagPicture": "Guatemala",
+            "leaderPicture": "Alejandro Giammattei",
+            "capital": "Guatemala City"
+            },
+
+            {
+            "id": "65BE44F1-C19C-11EC-A6D6-0800200C9A66",
+            "name": "United States",
+            "latitude": 37.0902,
+            "longitude": -95.7129,
+            "flagPicture": "United-States",
+            "leaderPicture": "Joe Biden",
+            "capital": "Washington D.C."
+            },
+            
+            {
+            "id": "65BE44F2-C19C-11EC-A6D6-0800200C9A66",
+            "name": "Mexico",
+            "latitude": 23.6345,
+            "longitude": -102.5528,
+            "flagPicture": "Mexico",
+            "leaderPicture": "Andrés Manuel López Obrador",
+            "capital": "Mexico City"
+            },
+            
+            {
+            "id": "DAC1C174-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Nicaragua",
+            "latitude": 13,
+            "longitude": -85,
+            "flagPicture": "Nicaragua",
+            "leaderPicture": "Daniel Ortega",
+            "capital": "Managua"
+            },
+            
+            {
+            "id": "DAC1C175-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Panama",
+            "latitude": 9,
+            "longitude": -80,
+            "flagPicture": "Panama",
+            "leaderPicture": "Laurentino Cortizo",
+            "capital": "Panama City"
+            },
+            
+            {
+            "id": "DAC1C176-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Saint Kitts and Nevis",
+            "latitude": 18,
+            "longitude": -62,
+            "flagPicture": "Saint-Kitts-and-Nevis",
+            "leaderPicture": "Timothy Harris ",
+            "capital": "Basseterre"
+            },
+            
+            {
+            "id": "DAC1C177-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Saint Lucia",
+            "latitude": 14.25,
+            "longitude": -61,
+            "flagPicture": "Saint-Lucia",
+            "leaderPicture": "Philip Pierre",
+            "capital": "Castries"
+            },
+            
+            {
+            "id": "DAC1C178-C1C2-11EC-A6D6-0800200C9A66",
+            "name": "Saint Vincent and the Grenadines",
+            "latitude": 13,
+            "longitude": -62.5,
+            "flagPicture": "Saint-Vincent-and-the-Grenadines",
+            "leaderPicture": "Ralph Gonsalves",
+            "capital": "Kingstown"
+            },
+            
+            {
+            "id": "AFD57F60-C1C7-11EC-A6D6-0800200C9A66",
+            "name": "Trinidad and Tobago",
+            "latitude": 10,
+            "longitude": -61,
+            "flagPicture": "Trinidad-and-Tobago",
+            "leaderPicture": "Paula-Mae Weekes",
+            "capital": "Port of Spain"
+            }
+            
+        ]
+    },
+    
+    {
+        "id": "2CF656B0-C270-11EC-A6D6-0800200C9A66",
+        "name": "Australia",
+        "countries": [
+            
+            {
+            "id": "2CF656B1-C270-11EC-A6D6-0800200C9A66",
+            "name": "Australia",
+            "latitude": -25,
+            "longitude": 133,
+            "flagPicture": "Australia",
+            "leaderPicture": "Scott Morrison",
+            "capital": "Canberra"
+            },
+            
+            {
+            "id": "2CF656B2-C270-11EC-A6D6-0800200C9A66",
+            "name": "Papua New Guinea",
+            "latitude": -6,
+            "longitude": 147,
+            "flagPicture": "Papua-New-Guinea",
+            "leaderPicture": "James Marape",
+            "capital": "Port Moresby"
+            },
+            
+            {
+            "id": "2CF656B3-C270-11EC-A6D6-0800200C9A66",
+            "name": "Indonesia",
+            "latitude": -5,
+            "longitude": 120,
+            "flagPicture": "Indonesia",
+            "leaderPicture": "Joko Widodo",
+            "capital": "Jakarta"
+            },
+            
+            {
+            "id": "2CF656B4-C270-11EC-A6D6-0800200C9A66",
+            "name": "New Zealand",
+            "latitude": -42,
+            "longitude": 173,
+            "flagPicture": "New-Zealand",
+            "leaderPicture": "Jacinda Ardern",
+            "capital": "Wellington"
+            },
+            
+            {
+            "id": "2CF656B5-C270-11EC-A6D6-0800200C9A66",
+            "name": "Soloman Islands",
+            "latitude": -8,
+            "longitude": 159,
+            "flagPicture": "Soloman-Islands",
+            "leaderPicture": "Manasseh Sogavare",
+            "capital": "Honiara"
+            },
+            
+            {
+            "id": "3D0455B0-C271-11EC-A6D6-0800200C9A66",
+            "name": "Fiji",
+            "latitude": -18,
+            "longitude": 179,
+            "flagPicture": "Fiji",
+            "leaderPicture": "Wiliame Katonivere",
+            "capital": "Suva"
+            },
+            
+            {
+            "id": "3D0455B1-C271-11EC-A6D6-0800200C9A66",
+            "name": "Vanuatu",
+            "latitude": -17,
+            "longitude": 168,
+            "flagPicture": "Vanuatu",
+            "leaderPicture": "Tallis Obed Moses",
+            "capital": "Port Vila"
+            },
+            
+            {
+            "id": "3D0455B2-C271-11EC-A6D6-0800200C9A66",
+            "name": "Samoa",
+            "latitude": -13,
+            "longitude": -172,
+            "flagPicture": "Samoa",
+            "leaderPicture": "Fiamē Naomi Mataʻafa",
+            "capital": "Apia"
+            },
+            
+            {
+            "id": "3D0455B3-C271-11EC-A6D6-0800200C9A66",
+            "name": "Marshall Islands",
+            "latitude": 8,
+            "longitude": 169,
+            "flagPicture": "Marshall-Islands",
+            "leaderPicture": "David Kabua",
+            "capital": "Majuro"
+            },
+            
+            {
+            "id": "3D0455B4-C271-11EC-A6D6-0800200C9A66",
+            "name": "Kiribati",
+            "latitude": 1,
+            "longitude": 173,
+            "flagPicture": "Kiribati",
+            "leaderPicture": "Taneti Maamau",
+            "capital": "South Tarawa"
+            },
+            
+            {
+            "id": "3D0455B5-C271-11EC-A6D6-0800200C9A66",
+            "name": "Tonga",
+            "latitude": -20,
+            "longitude": -175,
+            "flagPicture": "Tonga",
+            "leaderPicture": "Siaosi Sovaleni",
+            "capital": "Nuku'alofa"
+            },
+            
+            {
+            "id": "3D0455B6-C271-11EC-A6D6-0800200C9A66",
+            "name": "Micronesia",
+            "latitude": 6,
+            "longitude": 158,
+            "flagPicture": "Micronesia",
+            "leaderPicture": "David W. Panuelo",
+            "capital": "Palikir"
+            },
+            
+            {
+            "id": "3D0455B7-C271-11EC-A6D6-0800200C9A66",
+            "name": "Palau",
+            "latitude": 7,
+            "longitude": 134,
+            "flagPicture": "Palau",
+            "leaderPicture": "Surangel Whipps Jr.",
+            "capital": "Ngerulmud"
+            },
+            
+            {
+            "id": "3D0455B8-C271-11EC-A6D6-0800200C9A66",
+            "name": "Tuvalu",
+            "latitude": -8,
+            "longitude": 179,
+            "flagPicture": "Tuvalu",
+            "leaderPicture": "Kausea Natano",
+            "capital": "Funafuti"
+            },
+            
+            {
+            "id": "3D0455B9-C271-11EC-A6D6-0800200C9A66",
+            "name": "Nauru",
+            "latitude": 0,
+            "longitude": 166,
+            "flagPicture": "Nauru",
+            "leaderPicture": "Lionel Aingimea",
+            "capital": "Yaren"
+            }
+        
+        ]
+    },
+    
+    {
+        "id": "B7DE5840-C27F-11EC-A6D6-0800200C9A66",
+        "name": "Europe",
+        "countries": [
+            
+            {
+            "id": "F8890251-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Russia",
+            "latitude": 61,
+            "longitude": 105,
+            "flagPicture": "Russia",
+            "leaderPicture": "Vladimir Putin",
+            "capital": "Moscow"
+            },
+            
+            {
+            "id": "F8890252-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Ukraine",
+            "latitude": 49,
+            "longitude": 32,
+            "flagPicture": "Ukraine",
+            "leaderPicture": "Volodymyr Zelenskyy",
+            "capital": "Kyiv"
+            },
+            
+            {
+            "id": "F8890253-C27A-11EC-A6D6-0800200C9A66",
+            "name": "France",
+            "latitude": 47,
+            "longitude": 2,
+            "flagPicture": "France",
+            "leaderPicture": "Emmanuel Macron",
+            "capital": "Paris"
+            },
+
+            {
+            "id": "F8890254-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Spain",
+            "latitude": 40,
+            "longitude": -4,
+            "flagPicture": "Spain",
+            "leaderPicture": "Pedro Sánchez",
+            "capital": "Madrid"
+            },
+
+            {
+            "id": "F8890255-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Sweden",
+            "latitude": 63,
+            "longitude": 16,
+            "flagPicture": "Sweden",
+            "leaderPicture": "Magdalena Andersson",
+            "capital": "Stockholm"
+            },
+
+            {
+            "id": "87C415E5-C280-11EC-A6D6-0800200C9A66",
+            "name": "Norway",
+            "latitude": 61,
+            "longitude": 8,
+            "flagPicture": "Norway",
+            "leaderPicture": "Jonas Gahr Støre",
+            "capital": "Oslo"
+            },
+
+            {
+            "id": "87C415E6-C280-11EC-A6D6-0800200C9A66",
+            "name": "Germany",
+            "latitude": 51,
+            "longitude": 9,
+            "flagPicture": "Germany",
+            "leaderPicture": "Frank-Walter Steinmeier",
+            "capital": "Berlin"
+            },
+
+            {
+            "id": "F8890258-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Finland",
+            "latitude": 64,
+            "longitude": 26,
+            "flagPicture": "Finland",
+            "leaderPicture": "Sanna Marin",
+            "capital": "Helsinki"
+            },
+
+            {
+            "id": "87C415ED-C280-11EC-A6D6-0800200C9A66",
+            "name": "Poland",
+            "latitude": 52,
+            "longitude": 20,
+            "flagPicture": "Poland",
+            "leaderPicture": "Andrzej Duda",
+            "capital": "Warsaw"
+            },
+
+            {
+            "id": "87C415EE-C280-11EC-A6D6-0800200C9A66",
+            "name": "Italy",
+            "latitude": 43,
+            "longitude": 12,
+            "flagPicture": "Italy",
+            "leaderPicture": "Sergio Mattarella",
+            "capital": "Rome"
+            },
+
+            {
+            "id": "94AD99B8-70A5-4564-B011-343E4E398D29",
+            "name": "United Kingdom",
+            "latitude": 55,
+            "longitude": -3,
+            "flagPicture": "United-Kingdom",
+            "leaderPicture": "Boris Johnson",
+            "capital": "London"
+            },
+
+            {
+            "id": "4E14A7A9-69B1-4F3D-B8A5-0F738857B984",
+            "name": "Romania",
+            "latitude": 46,
+            "longitude": 25,
+            "flagPicture": "Romania",
+            "leaderPicture": "Klaus Iohannis",
+            "capital": "Bucharest"
+            },
+
+            {
+            "id": "1A5E31FB-21AC-40F4-9646-553D85589A89",
+            "name": "Belarus",
+            "latitude": 53,
+            "longitude": 27,
+            "flagPicture": "Belarus",
+            "leaderPicture": "Aleksandr Lukashenko",
+            "capital": "Minsk"
+            },
+
+            {
+            "id": "41C6D0C3-EF6D-44A8-B79E-ABBDDC8A138B",
+            "name": "Kazakhstan",
+            "latitude": 48,
+            "longitude": 68,
+            "flagPicture": "Kazakhstan",
+            "leaderPicture": "Kassym-Jomart Tokayev",
+            "capital": "Nur-Sultan"
+            },
+
+            {
+            "id": "03271754-399D-43D7-B76A-7D1D6A2FAF45",
+            "name": "Greece",
+            "latitude": 39,
+            "longitude": 22,
+            "flagPicture": "Greece",
+            "leaderPicture": "Katerina Sakellaropoulou",
+            "capital": "Athens"
+            },
+
+            {
+            "id": "19A98E78-2DD0-42FE-B9F4-09C8BB60E787",
+            "name": "Bulgaria",
+            "latitude": 42.733,
+            "longitude": 25.4858,
+            "flagPicture": "Bulgaria",
+            "leaderPicture": "Rumen Radev",
+            "capital": "Sofia"
+            },
+
+            {
+            "id": "F8890261-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Iceland",
+            "latitude": 65,
+            "longitude": -18,
+            "flagPicture": "Iceland",
+            "leaderPicture": "Guðni Th. Jóhannesson",
+            "capital": "Reykjavik"
+            },
+
+            {
+            "id": "F8890262-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Portugal",
+            "latitude": 39,
+            "longitude": -8,
+            "flagPicture": "Portugal",
+            "leaderPicture": "Marcelo Rebelo de Sousa",
+            "capital": "Lisbon"
+            },
+
+            {
+            "id": "F8890263-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Hungary",
+            "latitude": 47,
+            "longitude": 20,
+            "flagPicture": "Hungary",
+            "leaderPicture": "János Áder",
+            "capital": "Budapest"
+            },
+
+            {
+            "id": "F8890264-C27A-11EC-A6D6-0800200C9A66",
+            "name": "Austria",
+            "latitude": 47,
+            "longitude": 13,
+            "flagPicture": "Austria",
+            "leaderPicture": "Alexander Van der Bellen",
+            "capital": "Vienna"
+            },
+            
+            {
+            "id": "4DBB77F2-E284-4D84-8775-6524150F7F8D",
+            "name": "Czech Republic",
+            "latitude": 49,
+            "longitude": 15,
+            "flagPicture": "Czech-Republic",
+            "leaderPicture": "Miloš Zeman",
+            "capital": "Prague"
+            },
+            
+            {
+            "id": "F1ADC172-4CBD-4123-870D-F5E8623C5FE3",
+            "name": "Serbia",
+            "latitude": 45,
+            "longitude": 21,
+            "flagPicture": "Serbia",
+            "leaderPicture": "Aleksandar Vučić",
+            "capital": "Belgrade"
+            },
+            
+            {
+            "id": "9DBB2BB8-7D18-4F67-B093-06CCEA393D33",
+            "name": "Ireland",
+            "latitude": 53,
+            "longitude": -8,
+            "flagPicture": "Ireland",
+            "leaderPicture": "Michael D. Higgins",
+            "capital": "Dublin"
+            },
+            
+            {
+            "id": "41321064-A9A3-45A3-B430-C500DA0D6047",
+            "name": "Lithuania",
+            "latitude": 55,
+            "longitude": 24,
+            "flagPicture": "Lithuania",
+            "leaderPicture": "Gitanas Nausėda",
+            "capital": "Vilnius"
+            },
+            
+            {
+            "id": "629109BD-CF20-4C17-A041-2C96FEECE8DC",
+            "name": "Croatia",
+            "latitude": 45,
+            "longitude": 15,
+            "flagPicture": "Croatia",
+            "leaderPicture": "Zoran Milanović",
+            "capital": "Zagreb"
+            },
+            
+            {
+            "id": "B35B5EBF-6FFF-4A5B-AC8B-0BA25DECB9FD",
+            "name": "Latvia",
+            "latitude": 57,
+            "longitude": 25,
+            "flagPicture": "Latvia",
+            "leaderPicture": "Egils Levits",
+            "capital": "Riga"
+            },
+            
+            {
+            "id": "239FD128-2A58-4754-991E-F4485BA855D9",
+            "name": "Bosnia and Herzegovina",
+            "latitude": 44,
+            "longitude": 18,
+            "flagPicture": "Bosnia-and-Herzegovina",
+            "leaderPicture": "Zoran Tegeltija",
+            "capital": "Sarajevo"
+            },
+            
+            {
+            "id": "CDE3425D-1E64-4D29-8D7B-DED0D89D4AF9",
+            "name": "Slovakia",
+            "latitude": 48,
+            "longitude": 19,
+            "flagPicture": "Slovakia",
+            "leaderPicture": "Zuzana Čaputová",
+            "capital": "Bratislava"
+            },
+            
+            {
+            "id": "5B424CD3-47A8-491C-8628-28EC610AB45A",
+            "name": "Estonia",
+            "latitude": 59,
+            "longitude": 26,
+            "flagPicture": "Estonia",
+            "leaderPicture": "Alar Karis",
+            "capital": "Tallinn"
+            },
+            
+            {
+            "id": "7DE73CFA-F3A8-4CD6-9670-A44DE8AEF316",
+            "name": "Denmark",
+            "latitude": 56,
+            "longitude": 10,
+            "flagPicture": "Denmark",
+            "leaderPicture": "Mette Frederiksen",
+            "capital": "Copenhagen"
+            },
+            
+            {
+            "id": "D3DEF14C-6F38-4637-A239-CBD7EC3FA142",
+            "name": "Switzerland",
+            "latitude": 46,
+            "longitude": 8,
+            "flagPicture": "Switzerland",
+            "leaderPicture": "Ignazio Cassis",
+            "capital": "Bern"
+            },
+            
+            {
+            "id": "F6820BEB-30C4-4527-97CF-D92B1F2E5795",
+            "name": "Netherlands",
+            "latitude": 52,
+            "longitude": 5,
+            "flagPicture": "Netherlands",
+            "leaderPicture": "Mark Rutte",
+            "capital": "Amsterdam"
+            },
+            
+            {
+            "id": "1CA97B61-57BF-4E8A-8F72-19C76062114E",
+            "name": "Moldova",
+            "latitude": 47,
+            "longitude": 29,
+            "flagPicture": "Moldova",
+            "leaderPicture": "Maia Sandu",
+            "capital": "Chișinău"
+            },
+            
+            {
+            "id": "9922309C-A09B-482C-B3D0-79CDE0587131",
+            "name": "Belgium",
+            "latitude": 50,
+            "longitude": 4,
+            "flagPicture": "Belgium",
+            "leaderPicture": "Alexander De Croo",
+            "capital": "Brussels"
+            },
+            
+            {
+            "id": "8A152D06-8CFD-48CC-B40B-42496CB506E5",
+            "name": "Albania",
+            "latitude": 41,
+            "longitude": 20,
+            "flagPicture": "Albania",
+            "leaderPicture": "Ilir Meta",
+            "capital": "Tirana"
+            },
+            
+            {
+            "id": "622EC04A-AB3B-4FB4-A788-93C784813CC9",
+            "name": "North Macedonia",
+            "latitude": 42,
+            "longitude": 21.7453,
+            "flagPicture": "North-Macedonia",
+            "leaderPicture": "Stevo Pendarovski",
+            "capital": "Skopje"
+            },
+            
+            {
+            "id": "E5F3FB7A-0F28-43B5-AEA6-C8D8EC92BFCB",
+            "name": "Turkey",
+            "latitude": 39,
+            "longitude": 35,
+            "flagPicture": "Turkey",
+            "leaderPicture": "Recep Tayyip Erdoğan",
+            "capital": "Ankara"
+            },
+            
+            {
+            "id": "B4179867-4E9D-4D27-AA0C-81161F3665A9",
+            "name": "Slovenia",
+            "latitude": 46,
+            "longitude": 14,
+            "flagPicture": "Slovenia",
+            "leaderPicture": "Borut Pahor",
+            "capital": "Ljubljana"
+            },
+            
+            {
+            "id": "6172F395-FF4F-4041-8B81-786404ED6DAA",
+            "name": "Montenegro",
+            "latitude": 42.7087,
+            "longitude": 19.3744,
+            "flagPicture": "Montenegro",
+            "leaderPicture": "Milo Đukanović",
+            "capital": "Podgorica"
+            },
+            
+            {
+            "id": "475D6A23-08B5-415A-B555-4E606614652F",
+            "name": "Kosovo",
+            "latitude": 42,
+            "longitude": 21,
+            "flagPicture": "Kosovo",
+            "leaderPicture": "Vjosa Osmani",
+            "capital": "Pristina"
+            },
+            
+            {
+            "id": "36478D7B-F26D-41C5-AA8D-AE6EE4726639",
+            "name": "Azerbaijan",
+            "latitude": 40.3,
+            "longitude": 47.7,
+            "flagPicture": "Azerbaijan",
+            "leaderPicture": "Ilham Aliyev",
+            "capital": "Baku"
+            },
+            
+            {
+            "id": "79F59A6D-0AAB-46A3-9691-CC181DE315B8",
+            "name": "Georgia",
+            "latitude": 42,
+            "longitude": 43,
+            "flagPicture": "Georgia",
+            "leaderPicture": "Salome Zourabichvili",
+            "capital": "Tbilisi"
+            },
+            
+            {
+            "id": "5539C679-DFF3-447A-9571-4D8AEA68E2E9",
+            "name": "Luxembourg",
+            "latitude": 49,
+            "longitude": 6,
+            "flagPicture": "Luxembourg",
+            "leaderPicture": "Xavier Bettel",
+            "capital": "Luxembourg City"
+            },
+            
+            {
+            "id": "FEE86B31-EDFC-4A62-A6E0-0EE178D9BECE",
+            "name": "Andorra",
+            "latitude": 42,
+            "longitude": 1,
+            "flagPicture": "Andorra",
+            "leaderPicture": "Xavier Espot Zamora",
+            "capital": "Andorra la Vella"
+            },
+            
+            {
+            "id": "E1C802DA-7853-421A-A59D-0552DB1B365D",
+            "name": "Malta",
+            "latitude": 35,
+            "longitude": 14,
+            "flagPicture": "Malta",
+            "leaderPicture": "George Vella",
+            "capital": "Valletta"
+            },
+            
+            {
+            "id": "4B63C0D3-DDF3-4AB4-BB3D-F96BEEE9B5AD",
+            "name": "Liechtenstein",
+            "latitude": 47.15,
+            "longitude": 9.55,
+            "flagPicture": "Liechtenstein",
+            "leaderPicture": "Daniel Risch",
+            "capital": "Vaduz"
+            },
+            
+            {
+            "id": "19AED7DD-D58A-4F94-B1B4-B4A9D8287350",
+            "name": "San Marino",
+            "latitude": 44,
+            "longitude": 12.4578,
+            "flagPicture": "San-Marino",
+            "leaderPicture": "Oscar Mina Paolo Rondelli",
+            "capital": "San Marino"
+            },
+            
+            {
+            "id": "95543127-79C2-4B25-81DF-84BF192FBCF4",
+            "name": "Monaco",
+            "latitude": 43,
+            "longitude": 7,
+            "flagPicture": "Monaco",
+            "leaderPicture": "Albert II",
+            "capital": "Monaco"
+            },
+            
+            {
+            "id": "A9F7BE17-C6FC-43B4-B36F-C6BB70F76C05",
+            "name": "Vatican",
+            "latitude": 41.9029,
+            "longitude": 12.45,
+            "flagPicture": "Vatican-City",
+            "leaderPicture": "Giuseppe Bertello",
+            "capital": "Vatican City"
+            },
+            
+            {
+            "id": "846C9DF8-3A8A-4B42-B73F-566244054CDB",
+            "name": "Cyprus",
+            "latitude": 35,
+            "longitude": 33,
+            "flagPicture": "Cyprus",
+            "leaderPicture": "Nicos Anastasiades",
+            "capital": "Nicosia"
+            },
+            
+            {
+            "id": "C5466DAE-375D-4B24-AFF1-B567AAF9F77E",
+            "name": "Armenia",
+            "latitude": 40,
+            "longitude": 44,
+            "flagPicture": "Armenia",
+            "leaderPicture": "Nikol Pashinyan",
+            "capital": "Yerevan"
+            }
+        ]
+    },
+    
+    {
+        "id": "BA93BA1E-C3F2-4977-9872-9D0A735BB2C9",
+        "name": "Africa",
+        "countries": [
+            
+            {
+            "id": "6AAD3476-7188-43FB-A093-29F5A90D9E8A",
+            "name": "Nigeria",
+            "latitude": 8,
+            "longitude": 10,
+            "flagPicture": "Nigeria",
+            "leaderPicture": "Muhammadu Buhari",
+            "capital": "Abuja"
+            },
+            
+            {
+            "id": "933D20A0-3958-4D8B-9653-FB32178B130F",
+            "name": "Ethiopia",
+            "latitude": 9,
+            "longitude": 38.7,
+            "flagPicture": "Ethiopia",
+            "leaderPicture": "Sahle-Work Zewde",
+            "capital": "Addis Ababa"
+            },
+            
+            {
+            "id": "BE0C222B-9298-4DFB-91EC-4C27E7241F29",
+            "name": "Dominican Republic of Congo",
+            "latitude": -5,
+            "longitude": 24,
+            "flagPicture": "Dominican-Congo",
+            "leaderPicture": "Felix Tshisekedi",
+            "capital": "Kinshasa"
+            },
+            
+            {
+            "id": "4E3AE345-850F-42B3-9849-6B7F5C8E4A7E",
+            "name": "Egypt",
+            "latitude": 26,
+            "longitude": 30,
+            "flagPicture": "Egypt",
+            "leaderPicture": "Abdel Fattah Saeed Hussein Khalil el-Sisi",
+            "capital": "Cairo"
+            },
+            
+            {
+            "id": "17AEB848-A296-4235-9270-F049B9FCAF32",
+            "name": "South Africa",
+            "latitude": -31.5,
+            "longitude": 25,
+            "flagPicture": "South-Africa",
+            "leaderPicture": "Cyril Ramaphosa",
+            "capital": "Pretoria + Cape Town + Bloemfontein"
+            },
+            
+            {
+            "id": "E4E269AF-0B74-4B7D-8104-DDB86D9C9D71",
+            "name": "Tanzania",
+            "latitude": -6,
+            "longitude": 35,
+            "flagPicture": "Tanzania",
+            "leaderPicture": "Samia Suluhu Hassan",
+            "capital": "Dodoma"
+            },
+            
+            {
+            "id": "2486DA6B-01F4-4702-833D-307827749E1C",
+            "name": "Kenya",
+            "latitude": 1,
+            "longitude": 38,
+            "flagPicture": "Kenya",
+            "leaderPicture": "Uhuru Kenyatta",
+            "capital": "Nairobi"
+            },
+            
+            {
+            "id": "9DF60FF7-84F1-443D-BBBC-23129C664565",
+            "name": "Algeria",
+            "latitude": 28,
+            "longitude": 2,
+            "flagPicture": "Algeria",
+            "leaderPicture": "Abdelmadjid Tebboune",
+            "capital": "Algiers"
+            },
+            
+            {
+            "id": "2F243373-1FCE-4C25-84D3-79DD683F17A1",
+            "name": "Uganda",
+            "latitude": 1,
+            "longitude": 32,
+            "flagPicture": "Uganda",
+            "leaderPicture": "Yoweri Museveni",
+            "capital": "Kampala"
+            },
+            
+            {
+            "id": "80CBAF31-D0CB-4872-9858-11990315E8DA",
+            "name": "Sudan",
+            "latitude": 15,
+            "longitude": 32,
+            "flagPicture": "Sudan",
+            "leaderPicture": "Abdel Fattah al-Burhan",
+            "capital": "Khartoum"
+            },
+            
+            {
+            "id": "4C4FC86D-3A2F-4653-8252-8B9755AFE21F",
+            "name": "Morocco",
+            "latitude": 32,
+            "longitude": -6,
+            "flagPicture": "Morocco",
+            "leaderPicture": "Aziz Akhannouch",
+            "capital": "Rabat"
+            },
+            
+            {
+            "id": "E318E299-0FB0-4835-ADB0-F5962C10D27D",
+            "name": "Angola",
+            "latitude": -12,
+            "longitude": 18,
+            "flagPicture": "Angola",
+            "leaderPicture": "João Lourenço",
+            "capital": "Luanda"
+            },
+            
+            {
+            "id": "A5426B1E-ED62-4047-9A4A-B51F9BA4254B",
+            "name": "Ghana",
+            "latitude": 7,
+            "longitude": -1,
+            "flagPicture": "Ghana",
+            "leaderPicture": "Nana Akufo-Addo",
+            "capital": "Accra"
+            },
+            
+            {
+            "id": "97AFB1B3-D42B-423D-8D66-C8A99F9CCEE9",
+            "name": "Cameroon",
+            "latitude": 6,
+            "longitude": 12,
+            "flagPicture": "Cameroon",
+            "leaderPicture": "Paul Biya",
+            "capital": "Yaounde"
+            },
+            
+            {
+            "id": "BDD12270-C6A1-421C-9C96-D93A5501C92F",
+            "name": "Madagascar",
+            "latitude": -20,
+            "longitude": 47,
+            "flagPicture": "Madagascar",
+            "leaderPicture": "Andry Rajoelina",
+            "capital": "Antananarivo"
+            },
+            
+            {
+            "id": "1A1902FB-D49A-4FA0-B349-D18AC75517B4",
+            "name": "Mozambique",
+            "latitude": -17.5,
+            "longitude": 35,
+            "flagPicture": "Mozambique",
+            "leaderPicture": "Filipe Nyusi",
+            "capital": "Maputo"
+            },
+            
+            {
+            "id": "C3B1B9E6-A374-4871-AC69-3D84B4723DC9",
+            "name": "Ivory Coast",
+            "latitude": 8,
+            "longitude": -5,
+            "flagPicture": "Ivory-Coast",
+            "leaderPicture": "Alassane Ouattara",
+            "capital": "Yamoussoukro + Abidjan"
+            },
+            
+            {
+            "id": "63FA940E-6341-475D-9A6C-93072C10D6FB",
+            "name": "Niger",
+            "latitude": 16,
+            "longitude": 8,
+            "flagPicture": "Niger",
+            "leaderPicture": "Mohamed Bazoum",
+            "capital": "Niamey"
+            },
+            
+            {
+            "id": "794B9C12-9FE5-4BF7-B2D3-F9D53E1B252F",
+            "name": "Mali",
+            "latitude": 17,
+            "longitude": -4,
+            "flagPicture": "Mali",
+            "leaderPicture": "Assimi Goïta",
+            "capital": "Bamako"
+            },
+            
+            {
+            "id": "B0503594-7C59-4706-9BAA-6AC1BC22F3B0",
+            "name": "Malawi",
+            "latitude": -13,
+            "longitude": 34,
+            "flagPicture": "Malawi",
+            "leaderPicture": "Lazarus Chakwera",
+            "capital": "Lilongwe"
+            },
+            
+            {
+            "id": "2198E34E-9895-49BF-8BCA-7B366A498DD9",
+            "name": "Burkina Faso",
+            "latitude": 12,
+            "longitude": -1,
+            "flagPicture": "Burkina-Faso",
+            "leaderPicture": "Paul-Henri Sandaogo Damiba",
+            "capital": "Ouagadougou"
+            },
+            
+            {
+            "id": "16CE236E-5DA9-46B4-9BF0-4C6803FA86B1",
+            "name": "Chad",
+            "latitude": 15,
+            "longitude": 19,
+            "flagPicture": "Chad",
+            "leaderPicture": "Mahamat Déby",
+            "capital": "N'Djamena"
+            },
+            
+            {
+            "id": "19AD4802-9429-4438-A227-093FDC69D1A2",
+            "name": "Somalia",
+            "latitude": 10,
+            "longitude": 49,
+            "flagPicture": "Somalia",
+            "leaderPicture": "Mohamed Abdullahi Farmaajo",
+            "capital": "Mogadishu"
+            },
+            
+            {
+            "id": "2E6D04B3-AB87-4F8F-9350-B8FBA6BFE1C9",
+            "name": "Zimbabwe",
+            "latitude": -19,
+            "longitude": 30,
+            "flagPicture": "Zimbabwe",
+            "leaderPicture": "Emmerson Mnangagwa",
+            "capital": "Harare"
+            },
+            
+            {
+            "id": "7156009A-2537-4105-958C-69FD994D5586",
+            "name": "Zambia",
+            "latitude": -15,
+            "longitude": 30,
+            "flagPicture": "Zambia",
+            "leaderPicture": "Hakainde Hichilema",
+            "capital": "Lusaka"
+            },
+            
+            {
+            "id": "50F535C4-D56D-46F1-A62B-F2FBCC264B0A",
+            "name": "Senegal",
+            "latitude": 14.49,
+            "longitude": 14.45,
+            "flagPicture": "Senegal",
+            "leaderPicture": "Macky Sall",
+            "capital": "Dakar"
+            },
+            
+            {
+            "id": "AC4EDECE-D981-4583-875C-62CF2E810D7A",
+            "name": "South Sudan",
+            "latitude": 8,
+            "longitude": 30,
+            "flagPicture": "South-Sudan",
+            "leaderPicture": "Salva Kiir Mayardit",
+            "capital": "Juba"
+            },
+            
+            {
+            "id": "7515A2D2-CBDB-4CEB-9F38-F934FB964FF4",
+            "name": "Rwanda",
+            "latitude": -1,
+            "longitude": 29,
+            "flagPicture": "Rwanda",
+            "leaderPicture": "Paul Kagame",
+            "capital": "Kigali"
+            },
+            
+            {
+            "id": "605E77D7-699B-45F5-814A-6E6B63BAA8AE",
+            "name": "Guinea",
+            "latitude": 11,
+            "longitude": -10,
+            "flagPicture": "Guinea",
+            "leaderPicture": "Mamady Doumbouya",
+            "capital": "Conakry"
+            },
+            
+            {
+            "id": "E754DFFD-FDE8-4DF2-B63A-136293B25E5E",
+            "name": "Benin",
+            "latitude": 10.5,
+            "longitude": 2,
+            "flagPicture": "Benin",
+            "leaderPicture": "Patrice Talon",
+            "capital": "Porto-Novo"
+            },
+            
+            {
+            "id": "CA9BAD29-4883-4625-93BD-A799B73FD6A0",
+            "name": "Tunisia",
+            "latitude": 34,
+            "longitude": 9,
+            "flagPicture": "Tunisia",
+            "leaderPicture": "Kais Saied",
+            "capital": "Tunis"
+            },
+            
+            {
+            "id": "A07560A8-3D35-46BF-AD42-DCC683B06DCD",
+            "name": "Burundi",
+            "latitude": -3,
+            "longitude": 30,
+            "flagPicture": "Burundi",
+            "leaderPicture": "Évariste Ndayishimiye",
+            "capital": "Gitega + Bujumbura"
+            },
+            
+            {
+            "id": "1D2AC6FA-4BCB-4F22-8FEE-435E263E908C",
+            "name": "Sierra Leone",
+            "latitude": 8,
+            "longitude": -12,
+            "flagPicture": "Sierra-Leone",
+            "leaderPicture": "Julius Maada Bio",
+            "capital": "Freetown"
+            },
+            
+            {
+            "id": "756101B7-7B20-40F4-994F-CF4F485173A9",
+            "name": "Togo",
+            "latitude": 8.4,
+            "longitude": 1,
+            "flagPicture": "Togo",
+            "leaderPicture": "Faure Gnassingbé",
+            "capital": "Lome"
+            },
+            
+            {
+            "id": "36B82583-45B1-47C5-84C0-3EE822437E81",
+            "name": "Libya",
+            "latitude": 27,
+            "longitude": 17,
+            "flagPicture": "Libya",
+            "leaderPicture": "Mohamed al-Menfi",
+            "capital": "Tripoli"
+            },
+            
+            {
+            "id": "E6F48A9E-6079-448A-95C4-D1CDF21D02E8",
+            "name": "Republic of Congo",
+            "latitude": 0,
+            "longitude": 16.1,
+            "flagPicture": "Republic-Congo",
+            "leaderPicture": "Denis Sassou Nguesso",
+            "capital": "Brazzaville"
+            },
+            
+            {
+            "id": "23E27EB7-BD3F-4DF3-B565-D9215FC03C59",
+            "name": "Liberia",
+            "latitude": 6,
+            "longitude": -9,
+            "flagPicture": "Liberia",
+            "leaderPicture": "George Weah",
+            "capital": "Monrovia"
+            },
+            
+            {
+            "id": "B30099E9-4B0B-4144-B841-0215A32C6033",
+            "name": "Central African Republic",
+            "latitude": 7,
+            "longitude": 21,
+            "flagPicture": "Central-African-Republic",
+            "leaderPicture": "Faustin-Archange Touadéra",
+            "capital": "Bangui"
+            },
+            
+            {
+            "id": "DF5233CC-9F1F-4E91-AB44-85A26F648A42",
+            "name": "Mauritania",
+            "latitude": 20,
+            "longitude": -12,
+            "flagPicture": "Mauritania",
+            "leaderPicture": "Mohamed Ould Ghazouani",
+            "capital": "Nouakchott"
+            },
+            
+            {
+            "id": "D7A20FA7-F571-492E-92D3-4A8678E040E9",
+            "name": "Eritrea",
+            "latitude": 15,
+            "longitude": 39,
+            "flagPicture": "Eritrea",
+            "leaderPicture": "Incumbent Isaias Afwerki",
+            "capital": "Asmara"
+            },
+            
+            {
+            "id": "85FB530F-4C58-46F0-83F0-FD3C92DB3479",
+            "name": "Namibia",
+            "latitude": -22,
+            "longitude": 17,
+            "flagPicture": "Namibia",
+            "leaderPicture": "Hage Geingob",
+            "capital": "Windhoek"
+            },
+            
+            {
+            "id": "58B4BFCC-DF62-4A5A-B90E-F50751E99E3A",
+            "name": "The Gambia",
+            "latitude": 13,
+            "longitude": -16,
+            "flagPicture": "The-Gambia",
+            "leaderPicture": "Adama Barrow",
+            "capital": "Banjul"
+            },
+            
+            {
+            "id": "E3B0DB1B-5C61-4C75-A466-154FB7477FE5",
+            "name": "Botswana",
+            "latitude": -24,
+            "longitude": 25,
+            "flagPicture": "Botswana",
+            "leaderPicture": "Mokgweetsi Masisi",
+            "capital": "Gaborone"
+            },
+            
+            {
+            "id": "A0BD2274-30C3-49C4-9BFD-E3F637E268E5",
+            "name": "Gabon",
+            "latitude": -1.5,
+            "longitude": 12,
+            "flagPicture": "Gabon",
+            "leaderPicture": "Ali Bongo Ondimba",
+            "capital": "Libreville"
+            },
+            
+            {
+            "id": "E41ADC46-80E8-4F76-9C73-3AA50383EBF9",
+            "name": "Lesotho",
+            "latitude": -29.6,
+            "longitude": 28.3,
+            "flagPicture": "Lesotho",
+            "leaderPicture": "Moeketsi Majoro",
+            "capital": "Maseru"
+            },
+            
+            {
+            "id": "0DB157A2-9DC2-498D-AC6A-F7E92D3F659D",
+            "name": "Guinea-Bissau",
+            "latitude": 12,
+            "longitude": -15,
+            "flagPicture": "Guinea-Bissau",
+            "leaderPicture": "Umaro Sissoco Embaló",
+            "capital": "Bissau"
+            },
+            
+            {
+            "id": "9A88D0EE-015A-441A-8361-E66C1A704D81",
+            "name": "Equatorial Guinea",
+            "latitude": 1.5,
+            "longitude": 10,
+            "flagPicture": "Equatorial-Guinea",
+            "leaderPicture": "Teodoro Obiang Nguema Mbasogo",
+            "capital": "Malabo"
+            },
+            
+            {
+            "id": "89157800-0439-42A7-9DF8-704A96C74B5F",
+            "name": "Mauritius",
+            "latitude": -20.2,
+            "longitude": 57.5,
+            "flagPicture": "Mauritius",
+            "leaderPicture": "Pravind Jugnauth",
+            "capital": "Port Louis"
+            },
+            
+            {
+            "id": "F13B8B13-9A2D-4967-B668-8C6C61F52059",
+            "name": "Eswatini",
+            "latitude": -26,
+            "longitude": 31,
+            "flagPicture": "Eswatini",
+            "leaderPicture": "Mswati III",
+            "capital": "Mbabane + Lobamba"
+            },
+            
+            {
+            "id": "C2177992-C52F-4E91-8297-188AA2F3C51E",
+            "name": "Djibouti",
+            "latitude": 11,
+            "longitude": 43,
+            "flagPicture": "Djibouti",
+            "leaderPicture": "Ismail Omar Guelleh",
+            "capital": "Djibouti"
+            },
+            
+            {
+            "id": "7D360D7E-A683-4F70-A53E-291D4F0480D7",
+            "name": "Comoros",
+            "latitude": -12,
+            "longitude": 44,
+            "flagPicture": "Comoros",
+            "leaderPicture": "Azali Assoumani",
+            "capital": "Moroni"
+            },
+            
+            {
+            "id": "FEBEB61C-0CCC-4BED-BAF2-86FAAE0002DC",
+            "name": "Cape Verde",
+            "latitude": 15,
+            "longitude": -23,
+            "flagPicture": "Cape-Verde",
+            "leaderPicture": "José Maria Neves",
+            "capital": "Praia"
+            },
+            
+            {
+            "id": "44109365-9FEB-48B5-BC27-E53F23C29F95",
+            "name": "São Tomé and Príncipe",
+            "latitude": 0.1864,
+            "longitude": 6.6131,
+            "flagPicture": "São-Tomé-and-Príncipe",
+            "leaderPicture": "Carlos Vila Nova",
+            "capital": "São Tomé"
+            },
+            
+            {
+            "id": "3585AEC7-F764-444A-BF51-9BA787DB53D2",
+            "name": "Seychelles",
+            "latitude": -4,
+            "longitude": 55,
+            "flagPicture": "Seychelles",
+            "leaderPicture": "Wavel Ramkalawan",
+            "capital": "Victoria"
+            }
+            
+        ]
+    },
+    
+    {
+        "id": "DA5350D0-5C2F-46F0-8637-8D660384FA33",
+        "name": "Asia",
+        "countries": [
+            
+            {
+            "id": "806C981E-978A-45AD-ADD1-91CC856D5EFB",
+            "name": "China",
+            "latitude": 35,
+            "longitude": 103,
+            "flagPicture": "China",
+            "leaderPicture": "Xi Jinping",
+            "capital": "Beijing"
+            },
+            
+            {
+            "id": "1A9DC806-FA9E-405A-8D71-C75E9A046A7C",
+            "name": "India",
+            "latitude": 21,
+            "longitude": 78,
+            "flagPicture": "India",
+            "leaderPicture": "Ram Nath Kovind",
+            "capital": "New Delhi"
+            },
+
+            {
+            "id": "7F6DF213-744C-4BDD-812E-9B30972A176F",
+            "name": "Saudi Arabia",
+            "latitude": 24,
+            "longitude": 45,
+            "flagPicture": "Saudi-Arabia",
+            "leaderPicture": "Salman of Saudi Arabia",
+            "capital": "Riyadh"
+            },
+
+            {
+            "id": "DE54DBD0-2AEC-49FE-A914-5D5E8AA65298",
+            "name": "Iran",
+            "latitude": 32,
+            "longitude": 53,
+            "flagPicture": "Iran",
+            "leaderPicture": "Ebrahim Raisi",
+            "capital": "Tehran"
+            },
+
+            {
+            "id": "056F43E5-908B-4C58-ACAB-3FD6177E03A7",
+            "name": "Mongolia",
+            "latitude": 48,
+            "longitude": 106,
+            "flagPicture": "Mongolia",
+            "leaderPicture": "Ukhnaagiin Khürelsükh",
+            "capital": "Ulaanbaatar"
+            },
+
+            {
+            "id": "6C989266-5F9D-4D69-821F-18D012A9ED78",
+            "name": "Pakistan",
+            "latitude": 30,
+            "longitude": 70,
+            "flagPicture": "Pakistan",
+            "leaderPicture": "Arif Alvi",
+            "capital": "Islamabad"
+            },
+
+            {
+            "id": "BE99F0D3-FC15-4926-A922-F889DEBC6E93",
+            "name": "Myanmar",
+            "latitude": 22,
+            "longitude": 96,
+            "flagPicture": "Myanmar",
+            "leaderPicture": "Min Aung Hlaing",
+            "capital": "Naypyidaw"
+            },
+
+            {
+            "id": "30B41F99-C167-43CD-8D7B-614D5E8CAB18",
+            "name": "Afghanistan",
+            "latitude": 34,
+            "longitude": 69,
+            "flagPicture": "Afghanistan",
+            "leaderPicture": "Haibatullah Akhunzada",
+            "capital": "Kabul"
+            },
+
+            {
+            "id": "39BDEFA0-4251-46FD-84B2-46C0562DA2D0",
+            "name": "Yemen",
+            "latitude": 15,
+            "longitude": 44,
+            "flagPicture": "Yemen",
+            "leaderPicture": "Maeen Abdulmalik Saeed",
+            "capital": "Sanaa"
+            },
+
+            {
+            "id": "343CB96E-4E08-487F-9344-ED19A3A2F7C0",
+            "name": "Thailand",
+            "latitude": 15,
+            "longitude": 101,
+            "flagPicture": "Thailand",
+            "leaderPicture": "Prayut Chan-o-cha",
+            "capital": "Bangkok"
+            },
+
+            {
+            "id": "7AF4A8A2-1D77-4CBA-B3BD-622799D8D216",
+            "name": "Turkmenistan",
+            "latitude": 38.9697,
+            "longitude": 59.55,
+            "flagPicture": "Turkmenistan",
+            "leaderPicture": "Serdar Berdimuhamedow",
+            "capital": "Ashgabat"
+            },
+
+            {
+            "id": "8748468E-3575-4B20-9F63-9E9294C797AD",
+            "name": "Uzbekistan",
+            "latitude": 42,
+            "longitude": 63,
+            "flagPicture": "Uzbekistan",
+            "leaderPicture": "Shavkat Mirziyoyev",
+            "capital": "Tashkent"
+            },
+
+            {
+            "id": "4D74FC83-4102-4F5E-8784-FBEA6F405DEB",
+            "name": "Iraq",
+            "latitude": 33,
+            "longitude": 44,
+            "flagPicture": "Iraq",
+            "leaderPicture": "Barham Salih",
+            "capital": "Baghdad"
+            },
+
+            {
+            "id": "5F99DE4B-BEFF-440C-843C-A77CDA32D57F",
+            "name": "Japan",
+            "latitude": 36,
+            "longitude": 138,
+            "flagPicture": "Japan",
+            "leaderPicture": "Fumio Kishida",
+            "capital": "Tokyo"
+            },
+
+            {
+            "id": "D1A7F8F4-5DE0-497A-9244-C4F9A0E1A6FD",
+            "name": "Vietnam",
+            "latitude": 16,
+            "longitude": 108,
+            "flagPicture": "Vietnam",
+            "leaderPicture": "Pham Minh Chinh",
+            "capital": "Hanoi"
+            },
+
+            {
+            "id": "FA564DBF-CEA7-4D3D-AE43-5CA412AD6AA4",
+            "name": "Malaysia",
+            "latitude": 2,
+            "longitude": 112,
+            "flagPicture": "Malaysia",
+            "leaderPicture": "Ismail Sabri Yaakob",
+            "capital": "Putrajaya + Kuala Lumpur"
+            },
+
+            {
+            "id": "54B2BD5D-0967-4305-890C-BC9C0D61406F",
+            "name": "Oman",
+            "latitude": 21,
+            "longitude": 57,
+            "flagPicture": "Oman",
+            "leaderPicture": "Haitham bin Tariq Al",
+            "capital": "Muscat"
+            },
+
+            {
+            "id": "105F1F69-81F6-46AE-963F-32379ECD60D7",
+            "name": "Philippines",
+            "latitude": 13,
+            "longitude": 122,
+            "flagPicture": "Philippines",
+            "leaderPicture": "Rodrigo Duterte",
+            "capital": "Manila"
+            },
+
+            {
+            "id": "940A5090-3D4C-48B1-8F21-95E4658FCBB2",
+            "name": "Laos",
+            "latitude": 18,
+            "longitude": 105,
+            "flagPicture": "Laos",
+            "leaderPicture": "Thongloun Sisoulith",
+            "capital": "Vientiane"
+            },
+
+            {
+            "id": "55A9FBAE-3C67-4B29-B201-F0BC30E29212",
+            "name": "Kyrgyzstan",
+            "latitude": 41,
+            "longitude": 75,
+            "flagPicture": "Kyrgyzstan",
+            "leaderPicture": "Sadyr Japarov",
+            "capital": "Bishkek"
+            },
+
+            {
+            "id": "8A8A6E2B-F12F-49B5-9309-35798D0C3972",
+            "name": "Syria",
+            "latitude": 35,
+            "longitude": 38,
+            "flagPicture": "Syria",
+            "leaderPicture": "Bashar al-Assad",
+            "capital": "Damascus"
+            },
+
+            {
+            "id": "1F6CFA64-9EE7-4C32-A3E1-70E137A16237",
+            "name": "Cambodia",
+            "latitude": 11,
+            "longitude": 104,
+            "flagPicture": "Cambodia",
+            "leaderPicture": "Hun Sen",
+            "capital": "Phnom Penh"
+            },
+
+            {
+            "id": "61BD1869-DC5F-409F-9DE6-1330B2A54724",
+            "name": "Bangladesh",
+            "latitude": 24,
+            "longitude": 90,
+            "flagPicture": "Bangladesh",
+            "leaderPicture": "Sheikh Hasina",
+            "capital": "Dhaka"
+            },
+
+            {
+            "id": "C713EE1A-E977-430A-9EF0-4E62241F2818",
+            "name": "Nepal",
+            "latitude": 28,
+            "longitude": 84,
+            "flagPicture": "Nepal",
+            "leaderPicture": "Bidhya Devi Bhandari",
+            "capital": "Kathmandu"
+            },
+
+            {
+            "id": "F27DA961-792A-40B8-9AF7-F65066BE4513",
+            "name": "Tajikistan",
+            "latitude": 39,
+            "longitude": 71,
+            "flagPicture": "Tajikistan",
+            "leaderPicture": "Emomali Rahmon",
+            "capital": "Dushanbe"
+            },
+
+            {
+            "id": "00070652-C585-42ED-9D37-6C67A1C46225",
+            "name": "North Korea",
+            "latitude": 40,
+            "longitude": 127,
+            "flagPicture": "North-Korea",
+            "leaderPicture": "Kim Jong-un",
+            "capital": "Pyongyang"
+            },
+
+            {
+            "id": "F2EDE280-7897-47E0-89BD-49091195DD6E",
+            "name": "South Korea",
+            "latitude": 36,
+            "longitude": 128,
+            "flagPicture": "South-Korea",
+            "leaderPicture": "Moon Jae-in",
+            "capital": "Seoul"
+            },
+
+            {
+            "id": "32CE35A5-224B-4C27-B30F-656759F930B7",
+            "name": "Jordan",
+            "latitude": 31.04,
+            "longitude": 37.5,
+            "flagPicture": "Jordan",
+            "leaderPicture": "Abdullah II",
+            "capital": "Amman"
+            },
+
+            {
+            "id": "D0F2B7A6-2C64-4C92-A7B2-429D23319692",
+            "name": "United Arab Emirates",
+            "latitude": 23.5,
+            "longitude": 54,
+            "flagPicture": "United-Arab-Emirates",
+            "leaderPicture": "Khalifa bin Zayed Al Nahyan",
+            "capital": "Abu Dhabi"
+            },
+
+            {
+            "id": "460DD86B-BDE4-40A9-B32C-6927E82BFD96",
+            "name": "Sri Lanka",
+            "latitude": 7,
+            "longitude": 81,
+            "flagPicture": "Sri-Lanka",
+            "leaderPicture": "Gotabaya Rajapaksa",
+            "capital": "Sri Jayawardenepura Kotte + Colombo"
+            },
+
+            {
+            "id": "BED03EDB-88B1-4143-831C-BAB3A2CFFC7E",
+            "name": "Bhutan",
+            "latitude": 27,
+            "longitude": 90,
+            "flagPicture": "Bhutan",
+            "leaderPicture": "Lotay Tshering",
+            "capital": "Thimphu"
+            },
+
+            {
+            "id": "70236B53-46C9-49F8-8770-6DB0721CE5A7",
+            "name": "Taiwan",
+            "latitude": 24,
+            "longitude": 121,
+            "flagPicture": "Taiwan",
+            "leaderPicture": "Tsai Ing-wen",
+            "capital": "Taipei"
+            },
+
+            {
+            "id": "0D3CEE1A-7195-443D-8650-0521C0E6D257",
+            "name": "Kuwait",
+            "latitude": 29,
+            "longitude": 47,
+            "flagPicture": "Kuwait",
+            "leaderPicture": "Nawaf Al-Ahmad Al-Jaber Al-Sabah",
+            "capital": "Kuwait City"
+            },
+
+            {
+            "id": "57EFFC8B-8433-4E31-B64F-FDD86EA6AF25",
+            "name": "Israel",
+            "latitude": 30.5,
+            "longitude": 34.5,
+            "flagPicture": "Israel",
+            "leaderPicture": "Naftali Bennett",
+            "capital": "Jerusalem"
+            },
+
+            {
+            "id": "8C230BB8-1895-4EBC-B475-2464C5B04400",
+            "name": "East Timor",
+            "latitude": -8.55,
+            "longitude": 125.56,
+            "flagPicture": "East-Timor",
+            "leaderPicture": "Francisco Guterres",
+            "capital": "Dili"
+            },
+
+            {
+            "id": "7529DA22-F89F-4FE2-8ADF-DC59B55DAC90",
+            "name": "Qatar",
+            "latitude": 25,
+            "longitude": 51,
+            "flagPicture": "Qatar",
+            "leaderPicture": "Khalid bin Khalifa bin Abdulaziz Al Thani",
+            "capital": "Doha"
+            },
+
+            {
+            "id": "2024396A-D785-458D-8056-96527F1F3911",
+            "name": "Lebanon",
+            "latitude": 34,
+            "longitude": 35,
+            "flagPicture": "Lebanon",
+            "leaderPicture": "Michel Aoun",
+            "capital": "Beirut"
+            },
+
+            {
+            "id": "3493DB36-58B5-49D3-AA1F-90FBEAB9C99C",
+            "name": "Palestine",
+            "latitude": 32,
+            "longitude": 35,
+            "flagPicture": "Palestine",
+            "leaderPicture": "Mahmoud Abbas",
+            "capital": "Jerusalem (proclaimed)"
+            },
+
+            {
+            "id": "CC6A0EC2-16B9-4D5C-983B-EC3AB3CC7F55",
+            "name": "Brunei",
+            "latitude": 4,
+            "longitude": 114,
+            "flagPicture": "Brunei",
+            "leaderPicture": "Hassanal Bolkiah",
+            "capital": "Bandar Seri"
+            },
+
+            {
+            "id": "DC12BA08-009D-4548-9B55-DEF897F3D2C5",
+            "name": "Bahrain",
+            "latitude": 26.201,
+            "longitude": 50.606,
+            "flagPicture": "Bahrain",
+            "leaderPicture": "Salman bin Hamad Al Khalifa",
+            "capital": "Manama"
+            },
+
+            {
+            "id": "A4CDF251-3BDC-4428-B020-DB2AE192EFEC",
+            "name": "Singapore",
+            "latitude": 1,
+            "longitude": 103,
+            "flagPicture": "Singapore",
+            "leaderPicture": "Lee Hsien Loong",
+            "capital": "Singapore"
+            },
+
+            {
+            "id": "E4946CFC-0123-4744-8B09-43103620C213",
+            "name": "Maldives",
+            "latitude": 4.18,
+            "longitude": 73.51,
+            "flagPicture": "Maldives",
+            "leaderPicture": "Ibrahim Mohamed Solih",
+            "capital": "Male"
+            }
+
+        ]
+    }
+]
